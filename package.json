@@ -1,0 +1,18 @@
+{
+	"author": {
+    	"name": "Eugine Astroner",
+    	"url": "http://www.euginelab.ru"
+  	},
+  	"deprecated": false,
+  	"description": "Css in JS module",
+  	"keywords": [
+    	"cssInJs",
+      "nya-tools",
+      "nya-style"
+  	],
+    "homepage": "http://nya-style.euginelab.com/",
+  	"license": "MIT",
+  	"main": "./index.js",
+  	"name": "nya-style",
+  	"version": "1.0.0"
+}
