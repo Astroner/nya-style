@@ -1,16 +1,20 @@
 Nya-style is a library for css-in-js coding. 
 
 It consists of many functions for quick development out of the box, but if you want to set up this library, I made it as simple as possible so that you create more and spend less time setting up.
-###Main features
+
+### Main features
 -  auto add units
 -  simple **transitions**
 -  selectors encapsulation
 
 ------------
-###Links:
+
+### Links:
 - [documentation](http://nya-style.euginelab.ru/docs/)
 - [official site](http://nya-style.euginelab.ru/)
+
 ------------
+
 
 ### Simple Usage
 ```javascript 
@@ -30,7 +34,7 @@ var Style = require('nya-style'),
 	var str = style.parse();
 	console.log(str)
 ```
-###Result:
+##### Result:
 ```css
 body{
 	margin: 0;
@@ -65,7 +69,7 @@ var str = Style({
 }).parse();
 console.log(str)
 ```
-###Result
+##### Result
 ```css
 body {
 	padding: 0;
@@ -96,5 +100,5 @@ header a {
 So if you want to learn how to write this **fast CSS code**, go to the [docs](http://nya-style.euginelab.ru/docs/) and learn ALL features.
 
 
-####Official site
+#### Official site
 [http://nya-style.euginelab.ru/](http://nya-style.euginelab.ru/)
