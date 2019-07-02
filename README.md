@@ -7,7 +7,7 @@ It consists of many functions for quick development out of the box, but if you w
 -  selectors encapsulation
 
 ------------
-####Links:
+###Links:
 - [documentation](http://nya-style.euginelab.ru/docs/)
 - [official site](http://nya-style.euginelab.ru/)
 ------------
@@ -30,7 +30,7 @@ var Style = require('nya-style'),
 	var str = style.parse();
 	console.log(str)
 ```
-#####Result:
+###Result:
 ```css
 body{
 	margin: 0;
@@ -65,7 +65,7 @@ var str = Style({
 }).parse();
 console.log(str)
 ```
-####Result
+###Result
 ```css
 body {
 	padding: 0;
