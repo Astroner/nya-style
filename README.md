@@ -2,6 +2,11 @@ Nya-style is a library for css-in-js coding.
 
 It consists of many functions for quick development out of the box, but if you want to set up this library, I made it as simple as possible so that you create more and spend less time setting up.
 
+#### Installation
+>npm i --save nya-style
+
+------------
+
 ### Main features
 -  auto add units
 -  simple **transitions**
